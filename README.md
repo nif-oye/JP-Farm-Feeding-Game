@@ -1,10 +1,10 @@
 # Farm Feeding Frenzy 🐶
  
-![Scene View](./Media/game1.png)
+![Scene View](Media/game1.png)
 
 ---
 
-![Game View](./Media/farmGame.gif)
+![Game View](Media/farmGame.gif)
 
 This project is a fun and interactive game created as part of the [Unity Learn Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer). In this game, players are responsible for feeding hungry dogs that appear randomly opposite the player. It’s a great exercise in working with colliders, spawn managers, and other foundational Unity concepts.
 
