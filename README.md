@@ -1,6 +1,6 @@
 # Farm Feeding Frenzy 🐶
  
-![Scene View](./Media/game.png)
+![Scene View](./Media/game1.png)
 
 ---
 
